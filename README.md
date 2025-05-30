@@ -29,13 +29,13 @@ flowchart TD
     D -- Sí --> E["Inicializar num = 2"]
     D -- No --> F["Inicializar num = 1"]
 
-    E --> G["Mostrar num"]
+    E --> G["Imprimir num"]
     G --> H["num = num + 2"]
     H --> I{"¿num > 1000?"}
     I -- No --> G
     I -- Sí --> Z
 
-    F --> J["Mostrar num"]
+    F --> J["Imprimir num"]
     J --> K["num = num + 2"]
     K --> L{"¿num > 1000?"}
     L -- No --> J
