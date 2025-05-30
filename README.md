@@ -3,6 +3,8 @@ Desarrollo de los ejercicios puestos en clase. Para cada punto se creo un progra
 
 En esta parte solo veremos los diagramas de flujo ya que adjuntos están las soluciones de cada uno de los puntos
 
+NOTA: Los códigos estan documentados en el notebook, en el archivo RETO6.ipynb
+
 ### 1. Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 
 ```mermaid
